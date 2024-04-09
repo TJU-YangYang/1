@@ -1,4 +1,4 @@
-<img width="936" alt="image" src="https://github.com/TJU-YangYang/Drug_Sensitivity_Prediction/assets/150174132/09707e18-b8e6-470c-a52b-80cee3e7f0f0">## Overview
+## Overview
 This project includes several Python scripts that together implement a deep learning model for drug sensitivity prediction using deep learning methods (DNN-PNN). 
 
 ## Requirements
@@ -15,7 +15,7 @@ This project includes several Python scripts that together implement a deep lear
 1. Clone the repository:
 ```
     git clone [https://github.com/TJU-YangYang//Drug_Sensitivity_Prediction.git]
-    cd [DNN-PNN]
+    cd [Drug_Sensitivity_Prediction]
 ```
 
 2. Install required packages:
