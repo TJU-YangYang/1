@@ -23,6 +23,12 @@ This project includes several Python scripts that together implement a deep lear
     pip install -r requirements.txt
 ```
 
+3. Dataset link:
+```
+    link：https://pan.baidu.com/s/1yTf1c3WNwaT_jBVH_Ubwyg
+    code：F6D8
+```
+
 ## File description
 1. DataLoader_num.py: Manages the loading and preprocessing of numerical data sets.
 2. DNN_PNN.py: Implements the Deep Neural Network (DNN) and Product Neural Network (PNN) models.
