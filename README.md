@@ -16,7 +16,7 @@ tensorrt                 8.6.1.post1
 ## Installation
 1. Clone the repository:
 ```
-    git clone [https://github.com/TJU-YangYang/DNN-PNN.git]
+    git clone [https://github.com/TJU-YangYang//Drug_Sensitivity_Prediction.git]
     cd [DNN-PNN]
 ```
 
