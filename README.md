@@ -1,17 +1,15 @@
-## Overview
+<img width="936" alt="image" src="https://github.com/TJU-YangYang/Drug_Sensitivity_Prediction/assets/150174132/09707e18-b8e6-470c-a52b-80cee3e7f0f0">## Overview
 This project includes several Python scripts that together implement a deep learning model for drug sensitivity prediction using deep learning methods (DNN-PNN). 
 
 ## Requirements
-Package                  Version
------------------------- -----------
-numpy                    1.21.6
-pandas                   1.3.5
-Pillow                   9.5.0
-scikit-learn             1.0.2
-scipy                    1.7.3
-tensorboard              1.15.0
-tensorflow               1.15.0
-tensorrt                 8.6.1.post1
+- numpy                    1.21.6
+- pandas                   1.3.5
+- Pillow                   9.5.0
+- scikit-learn             1.0.2
+- scipy                    1.7.3
+- tensorboard              1.15.0
+- tensorflow               1.15.0
+- tensorrt                 8.6.1.post1
 
 ## Installation
 1. Clone the repository:
