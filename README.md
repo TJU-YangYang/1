@@ -14,8 +14,8 @@ This project includes several Python scripts that together implement a deep lear
 ## Installation
 1. Clone the repository:
 ```
-    git clone [https://github.com/TJU-work//Drug_Sensitivity_Prediction.git]
-    cd [Drug_Sensitivity_Prediction]
+    git clone [https://github.com/TJU-work//DrugSensPred.git]
+    cd [DrugSensPred]
 ```
 
 2. Install required packages:
